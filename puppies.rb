@@ -43,4 +43,4 @@ def new_animal(puppies, cats)
     puts "Slow down on the animals, dude."
   end
 end
-new_animal(5, 2)
+new_animal(5, 0)
